@@ -6,7 +6,7 @@
  
 ## I'M SO Glad
 
-              WELCOME TO MY REPOSITORY
+              WELCOME TO MY GITHUB REPOSITORY
        
        "Know how to learn. Then, want to learn."
        
