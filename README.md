@@ -17,8 +17,9 @@ Portfolio :- https://karunakaran-vijayaraghavan.netlify.app/
 
 Oracle certified :-https://brm-certview.oracle.com/pls/certview/ecertificate?ssn=OC2262186&trackId=OCIBF2021&key=5a93b9f09a55ed035951cdf7831ff0887dc5be7c
 
+ORACLE CERTIFICATE Click this link:-https://ibb.co/FJBqQ81
 
-https://ibb.co/FJBqQ81
+To view my achievements Click this link:-https://ibb.co/album/tmpz3P
 
 
 
