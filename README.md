@@ -16,6 +16,8 @@ Linkedin :-(https://www.linkedin.com/in/karuna-karan-vijayaraghavan-622a2a218/)
 Portfolio :- https://karunakaran-vijayaraghavan.netlify.app/
 
 Oracle certified :-https://brm-certview.oracle.com/pls/certview/ecertificate?ssn=OC2262186&trackId=OCIBF2021&key=5a93b9f09a55ed035951cdf7831ff0887dc5be7c
+
+
 https://ibb.co/FJBqQ81
 
 
