@@ -4,7 +4,7 @@
 
 ## Hey buddy 👋
  
-## I'M SO Glad
+## I'M So Glad
 
               WELCOME TO MY GITHUB REPOSITORY
        
@@ -20,6 +20,8 @@ Oracle certified :-https://brm-certview.oracle.com/pls/certview/ecertificate?ssn
 ORACLE CERTIFICATE Click this link:-https://ibb.co/FJBqQ81
 
 To view my achievements Click this link:-https://ibb.co/album/tmpz3P , https://imgbb.com/
+
+Salesforce Badegs:-https://ibb.co/album/Ycf59D
 
 
 
