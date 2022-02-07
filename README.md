@@ -19,7 +19,7 @@ Oracle certified :-https://brm-certview.oracle.com/pls/certview/ecertificate?ssn
 
 ORACLE CERTIFICATE Click this link:-https://ibb.co/FJBqQ81
 
-To view my achievements Click this link:-https://ibb.co/album/tmpz3P
+To view my achievements Click this link:-https://ibb.co/album/tmpz3P , https://imgbb.com/
 
 
 
