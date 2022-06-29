@@ -17,7 +17,7 @@
 ![aws-educate-machine-learning-deepracer](https://user-images.githubusercontent.com/66834895/176537048-e84edafe-55d1-4f3e-9d70-125dc5c74ce2.png)
 ![M220JS_proof_of_completion](https://user-images.githubusercontent.com/66834895/176537155-caf4232a-8a3a-460d-a6f0-75f4f5140ad1.jpg)
 ![M100_proof_of_completion](https://user-images.githubusercontent.com/66834895/176537305-5709b734-a5fa-49d3-b206-c7183999f09d.jpg)
-![NFT Badge](https://user-images.githubusercontent.com/66834895/176537312-6a4d0754-f1d0-4587-9b8d-941a81eb4f3c.jpg)
+
 
    
       
