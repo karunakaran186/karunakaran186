@@ -2,13 +2,13 @@
 # KARUNAKARAN VIJAYARAGHAVAN
 [PROGRAMMER,TECH ENTHUSIAST,AI AND ML PROGRAMMER]
 
-## Hey buddy 👋
+## Hey Folks 👋
  
-## I'M So Glad
+## Greetings
 
               WELCOME TO MY GITHUB REPOSITORY
        
-       "Know how to learn. Then, want to learn."
+           "Know how to learn. Then, want to learn."
        
        
    ![Screenshot 2022-06-30 014508](https://user-images.githubusercontent.com/66834895/176536657-b164a4aa-4758-4c1f-9d8f-fe4a2ea3b2f6.jpg)
