@@ -28,6 +28,7 @@ To view my achievements Click this link:-https://ibb.co/album/tmpz3P , https://i
 Salesforce Badegs:-https://ibb.co/album/Ycf59D
 
 SCRUM CERTIFIED:-https://www.credly.com/badges/c0ca679e-c1d1-4447-a187-fc4d819ff41f/public_url
+
 LIFELONG LEARNER BY CERTIPROF:-https://www.credly.com/badges/4c5ca060-57f8-4257-ad5f-ec29fcb91954?source=linked_in_profile
 
 AI From the Data Center to the Edge – An Optimized Path Using Intel® Architecture:-https://www.credly.com/badges/549a5f35-302d-4692-a9b1-54629d520d57?source=linked_in_profile
