@@ -11,7 +11,11 @@
        "Know how to learn. Then, want to learn."
        
       
-Linkedin :-(https://www.linkedin.com/in/karuna-karan-vijayaraghavan-622a2a218/)
+[Certificate (5).pdf](https://github.com/karunakaran186/karunakaran186/files/9014170/Certificate.5.pdf)
+
+      
+      
+Linkedin :-https://www.linkedin.com/in/karuna-karan-vijayaraghavan-622a2a218/
 
 Portfolio :- https://karunakaran-vijayaraghavan.netlify.app/
 
@@ -22,6 +26,17 @@ ORACLE CERTIFICATE Click this link:-https://ibb.co/FJBqQ81
 To view my achievements Click this link:-https://ibb.co/album/tmpz3P , https://imgbb.com/
 
 Salesforce Badegs:-https://ibb.co/album/Ycf59D
+
+SCRUM CERTIFIED:-https://www.credly.com/badges/c0ca679e-c1d1-4447-a187-fc4d819ff41f/public_url
+LIFELONG LEARNER BY CERTIPROF:-https://www.credly.com/badges/4c5ca060-57f8-4257-ad5f-ec29fcb91954?source=linked_in_profile
+
+AI From the Data Center to the Edge – An Optimized Path Using Intel® Architecture:-https://www.credly.com/badges/549a5f35-302d-4692-a9b1-54629d520d57?source=linked_in_profile
+
+AWS Educate Machine Learning - DeepRacer:-https://www.credly.com/earner/earned/badge/5f134d43-8672-44ee-8e92-25036ab1297d
+
+TRELLO FUNDAMENTALS:-https://university.atlassian.com/student/award/tCJehTV9qHqbiyZn7Q26vrMf
+
+POSTman Api tester:-https://badgr.com/public/assertions/jPUUkMMFRVKcXyVke6uBrQ
 
 [![Gitter](https://badges.gitter.im/karunakaran186/community.svg)](https://gitter.im/karunakaran186/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
