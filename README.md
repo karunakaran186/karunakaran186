@@ -12,7 +12,13 @@
        
        
    ![Screenshot 2022-06-30 014508](https://user-images.githubusercontent.com/66834895/176536657-b164a4aa-4758-4c1f-9d8f-fe4a2ea3b2f6.jpg)
-   
+   ![Postman - Postman Student Expert - 2022-05-01](https://user-images.githubusercontent.com/66834895/176536959-3f9d75df-c238-4701-9b55-8971815b9dff.png)
+![APi tester 1](https://user-images.githubusercontent.com/66834895/176537002-0b0b9d9c-257f-4b3b-a5b5-f8f417d80cff.jpg)
+![aws-educate-machine-learning-deepracer](https://user-images.githubusercontent.com/66834895/176537048-e84edafe-55d1-4f3e-9d70-125dc5c74ce2.png)
+![M220JS_proof_of_completion](https://user-images.githubusercontent.com/66834895/176537155-caf4232a-8a3a-460d-a6f0-75f4f5140ad1.jpg)
+![M100_proof_of_completion](https://user-images.githubusercontent.com/66834895/176537305-5709b734-a5fa-49d3-b206-c7183999f09d.jpg)
+![NFT Badge](https://user-images.githubusercontent.com/66834895/176537312-6a4d0754-f1d0-4587-9b8d-941a81eb4f3c.jpg)
+
    
       
 Linkedin :-https://www.linkedin.com/in/karuna-karan-vijayaraghavan-622a2a218/
