@@ -10,10 +10,9 @@
        
        "Know how to learn. Then, want to learn."
        
-      
-[Certificate (5).pdf](https://github.com/karunakaran186/karunakaran186/files/9014170/Certificate.5.pdf)
+       
+       ![Screenshot 2022-06-30 014508](https://user-images.githubusercontent.com/66834895/176536657-b164a4aa-4758-4c1f-9d8f-fe4a2ea3b2f6.jpg)
 
-      
       
 Linkedin :-https://www.linkedin.com/in/karuna-karan-vijayaraghavan-622a2a218/
 
@@ -51,6 +50,7 @@ Let me introduce myself :slightly_smiling_face:
  !!!!!!!!!!!!!!!!!!!!!!!!!!!! AFFORDABLE PRICE THE PROJECTS WERE DONE !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ![12334613-971](https://user-images.githubusercontent.com/66834895/152692348-2665aa94-3995-4f26-8c00-ef7ce54051f7.jpg)
+
 
 
 
