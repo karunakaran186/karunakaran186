@@ -17,7 +17,9 @@
 ![M220JS_proof_of_completion](https://user-images.githubusercontent.com/66834895/176537155-caf4232a-8a3a-460d-a6f0-75f4f5140ad1.jpg)
 ![M100_proof_of_completion](https://user-images.githubusercontent.com/66834895/176537305-5709b734-a5fa-49d3-b206-c7183999f09d.jpg)
 ![Karunakaran Vijayaraghavan_Cert_Project Admin_GSSoC2022](https://user-images.githubusercontent.com/66834895/181291451-f2181af9-c709-4351-ad7e-5291da87e8d1.png)
-[certification-cPanel-&-WHM-Sales-Professional-Exam-CPSP-kk007 (2).pdf](https://github.com/karunakaran186/karunakaran186/files/9200662/certification-cPanel-.-WHM-Sales-Professional-Exam-CPSP-kk007.2.pdf)
+![certification-cPanel- -WHM-Sales-Professional-Exam-CPSP-kk007 2](https://user-images.githubusercontent.com/66834895/181292407-96137263-c952-4dce-842f-e49442e773c6.jpeg)
+[badge_468329_all.pdf](https://github.com/karunakaran186/karunakaran186/files/9200712/badge_468329_all.pdf)
+
 
 
    
