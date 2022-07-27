@@ -1,3 +1,6 @@
+[badge_468329_all.pdf](https://github.com/karunakaran186/karunakaran186/files/9200658/badge_468329_all.pdf)
+[certification-cPanel-&-WHM-Sales-Professional-Exam-CPSP-kk007 (2).pdf](https://github.com/karunakaran186/karunakaran186/files/9200662/certification-cPanel-.-WHM-Sales-Professional-Exam-CPSP-kk007.2.pdf)
+![Karunakaran Vijayaraghavan_Cert_Project Admin_GSSoC2022](https://user-images.githubusercontent.com/66834895/181291451-f2181af9-c709-4351-ad7e-5291da87e8d1.png)
 
 # KARUNAKARAN VIJAYARAGHAVAN
 [PROGRAMMER,TECH ENTHUSIAST,AI AND ML PROGRAMMER]
