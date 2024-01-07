@@ -2,7 +2,7 @@
 [PROGRAMMER,TECH ENTHUSIAST,AI AND ML PROGRAMMER]
 
 # 💫 About Me:
-# KARUNAKARAN VIJAYARAGHAVAN<br>[PROGRAMMER,TECH ENTHUSIAST,AI AND ML PROGRAMMER]<br><br>## Hey Folks 👋<br><br>Let me introduce myself :slightly_smiling_face:<br> I'm karunakaran vijayaraghavan, Coding was my passion and I have started to code since 2019 presently working as Associate consultant, I have completed over 4+ professional Certifications as well as i have done some projects which was showcased in my repos!!!...Give me a star if my projects are valuable.
+# KARUNAKARAN VIJAYARAGHAVAN<br>[Associate Consultant X Programmer Analyst]<br><br>## Hey Folks 👋<br><br>Let me introduce myself :slightly_smiling_face:<br> I'm karunakaran vijayaraghavan, Coding was my passion and I have started to code since 2019 presently working as Associate consultant, I have completed over 4+ professional Certifications as well as i have done some projects which was showcased in my repos!!!...Give me a star if my projects are valuable.
 
 Create--->contribute...Take a look at my repos. 
 I hope it may be useful for your projects.
