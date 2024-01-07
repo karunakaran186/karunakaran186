@@ -1,10 +1,26 @@
 # KARUNAKARAN VIJAYARAGHAVAN
 [PROGRAMMER,TECH ENTHUSIAST,AI AND ML PROGRAMMER]
 
+## Hey Folks 👋
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+Let me introduce myself :slightly_smiling_face:
+ I'M karunakaran vijayaraghavan, Coding was my passion, i have started to code since 2019 now working as Associate consultant, I have completed over 4+ professional Certifications as well as i have done some of those projects and showcased in my repos!!!...Give me a star if my projects are valuable...Create--->contribute...Take a look at my repos..I hope it may be use full for your projects.....
+ 
+## Greetings
 
-###
+              WELCOME TO MY GITHUB REPOSITORY
+       
+           "Know how to learn. Then, want to learn."
+       
+       
+   ![Screenshot 2022-06-30 014508](https://user-images.githubusercontent.com/66834895/176536657-b164a4aa-4758-4c1f-9d8f-fe4a2ea3b2f6.jpg)
+   ![Postman - Postman Student Expert - 2022-05-01](https://user-images.githubusercontent.com/66834895/176536959-3f9d75df-c238-4701-9b55-8971815b9dff.png)
+![APi tester 1](https://user-images.githubusercontent.com/66834895/176537002-0b0b9d9c-257f-4b3b-a5b5-f8f417d80cff.jpg)
+![aws-educate-machine-learning-deepracer](https://user-images.githubusercontent.com/66834895/176537048-e84edafe-55d1-4f3e-9d70-125dc5c74ce2.png)
+![M220JS_proof_of_completion](https://user-images.githubusercontent.com/66834895/176537155-caf4232a-8a3a-460d-a6f0-75f4f5140ad1.jpg)
+![M100_proof_of_completion](https://user-images.githubusercontent.com/66834895/176537305-5709b734-a5fa-49d3-b206-c7183999f09d.jpg)
+![Karunakaran Vijayaraghavan_Cert_Project Admin_GSSoC2022](https://user-images.githubusercontent.com/66834895/181291451-f2181af9-c709-4351-ad7e-5291da87e8d1.png)
+![certification-cPanel- -WHM-Sales-Professional-Exam-CPSP-kk007 2](https://user-images.githubusercontent.com/66834895/181292407-96137263-c952-4dce-842f-e49442e773c6.jpeg)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -81,27 +97,6 @@
 
 
 
-## Hey Folks 👋
- 
-## Greetings
-
-              WELCOME TO MY GITHUB REPOSITORY
-       
-           "Know how to learn. Then, want to learn."
-       
-       
-   ![Screenshot 2022-06-30 014508](https://user-images.githubusercontent.com/66834895/176536657-b164a4aa-4758-4c1f-9d8f-fe4a2ea3b2f6.jpg)
-   ![Postman - Postman Student Expert - 2022-05-01](https://user-images.githubusercontent.com/66834895/176536959-3f9d75df-c238-4701-9b55-8971815b9dff.png)
-![APi tester 1](https://user-images.githubusercontent.com/66834895/176537002-0b0b9d9c-257f-4b3b-a5b5-f8f417d80cff.jpg)
-![aws-educate-machine-learning-deepracer](https://user-images.githubusercontent.com/66834895/176537048-e84edafe-55d1-4f3e-9d70-125dc5c74ce2.png)
-![M220JS_proof_of_completion](https://user-images.githubusercontent.com/66834895/176537155-caf4232a-8a3a-460d-a6f0-75f4f5140ad1.jpg)
-![M100_proof_of_completion](https://user-images.githubusercontent.com/66834895/176537305-5709b734-a5fa-49d3-b206-c7183999f09d.jpg)
-![Karunakaran Vijayaraghavan_Cert_Project Admin_GSSoC2022](https://user-images.githubusercontent.com/66834895/181291451-f2181af9-c709-4351-ad7e-5291da87e8d1.png)
-![certification-cPanel- -WHM-Sales-Professional-Exam-CPSP-kk007 2](https://user-images.githubusercontent.com/66834895/181292407-96137263-c952-4dce-842f-e49442e773c6.jpeg)
-
-
-
-
    
       
 Linkedin :-https://www.linkedin.com/in/karuna-karan-vijayaraghavan-622a2a218/
@@ -132,8 +127,7 @@ POSTman Api tester:-https://badgr.com/public/assertions/jPUUkMMFRVKcXyVke6uBrQ
 
 <img alt="" width="400" src="https://metrics.lecoq.io/karunakaran186?template=classic&isocalendar=1&languages=1&stars=1&followup=1&people=1&code=1&activity=1&achievements=1&notable=1&discussions=1&lines=1&repositories=1&introduction=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&code.lines=12&code.load=100&code.days=3&code.visibility=public&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions.categories=true&discussions.categories.limit=0&introduction.title=true&config.timezone=Asia%2FCalcutta">
 
-Let me introduce myself :slightly_smiling_face:
- I'M karunakaran vijayaraghavan, Coding was my passion, i have started to code since 2019 Now pursuing Bsc.IT(2)year, I have completed over 150+ Certifications as well as i have done some of those projects and showcased in my repos!!!...Give me a star if my projects are valuable...Create--->contribute...Take a look at my repos..I hope it may be use full for your projects.....
+
 
 
 
